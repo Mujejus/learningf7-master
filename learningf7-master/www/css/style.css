@@ -1,0 +1,40 @@
+
+.card-header {
+    background-color: #d60000;
+}
+
+img {
+    max-width: 300px;
+    max-height: 300px ;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    ;
+}
+
+h3 {
+    font-size: 20pt;
+    margin:0;
+}
+
+.card-header2 {
+    background-color: #467d03;
+    max-height: 300px;
+}
+
+img.card-header2 {
+    max-height: 200px;
+}
+
+a.listen {
+    color: black;
+    background-color: bisque;
+    padding: 2px;
+    margin: 10px;
+    border-radius: 12px;
+    font-size: 12pt;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
